@@ -7,7 +7,7 @@ public class UserSwap {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter First number: ");
         int a = sc.nextInt();
-        System.out.print("Enter Second number:");
+        System.out.print("Enter Second number: ");
         int b = sc.nextInt();
         System.out.println("The value of a is " + a + " and b is " + b + " before Swaping.");
         int temp;
